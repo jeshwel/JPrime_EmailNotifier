@@ -1,0 +1,9 @@
+<!-- File name extension must be .runsettings -->
+<RunSettings>
+  <RunConfiguration>
+      <EnvironmentVariables>
+          <!-- List of environment variables we want to set-->
+          <JPrime_SMTPHost>smtp.yourorg.com</JPrime_SMTPHost>
+      </EnvironmentVariables>
+  </RunConfiguration>
+</RunSettings>
