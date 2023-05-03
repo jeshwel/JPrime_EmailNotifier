@@ -1,1 +1,1 @@
-# JPrime_EmailNotifier
+# Queue trigger based EmailNotifier
